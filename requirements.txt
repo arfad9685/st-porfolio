@@ -45,7 +45,7 @@ panda3d-simplepbr== 0.10
 pandas==1.5.1
 pefile==2022.5.30
 Pillow==9.2.0
-pip==22.2.2
+pip==22.3.1
 platformdirs==2.5.2
 protobuf==3.20.3
 py2exe==0.11.1.1
